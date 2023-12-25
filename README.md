@@ -12,8 +12,8 @@ this is the project for running API server for flutter app in this repo[client](
 
 after that you can use all api in this repo
 
-like this
-GET mahasiswa : localhost:3000/mahasiswa
+like this <br>
+GET mahasiswa : localhost:3000/mahasiswa or <br>
 GET information : localhost:3000/information
 
 also don't forget to give token = 123456 in header for authorization
